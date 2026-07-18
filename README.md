@@ -1,16 +1,169 @@
-## Hi there 👋
+# Hey, I'm Aishwarya Selvaraju 
 
-<!--
-**Aishwaryaselvaraju/Aishwaryaselvaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UI/UX Designer · Data Analyst · Full-Stack Developer · AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+ India  
+ Open to Full-Time Opportunities  
+ Passionate about designing intuitive user experiences and building data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+#  What I Build
+
+I build user-centered digital products by combining **UI/UX Design, Data Analytics, AI, and Full-Stack Development**.
+
+I enjoy solving real-world problems through clean interfaces, intelligent systems, and interactive dashboards.
+
+My work spans across:
+
+-  UI/UX Design (Figma, Canva, Inkscape)
+-  Data Analytics & Visualization (Power BI, Excel, Tableau)
+-  Machine Learning & AI (Python, Scikit-learn, NLP)
+-  Web Development (HTML, CSS, JavaScript, Django)
+-  Database Management (SQL, MySQL, PostgreSQL)
+
+---
+
+#  Tech Stack
+
+##  Design
+
+- Figma
+- Canva
+- Inkscape
+- CorelDRAW
+
+##  Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+##  Backend
+
+- Python
+- Django
+- REST APIs
+
+##  Data Analytics
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- SQL
+
+##  Machine Learning
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- NLP
+
+##  Database
+
+- MySQL
+- PostgreSQL
+- SQLite
+
+##  Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+
+---
+
+#  Featured Projects
+
+##  Financial Analytics Dashboard
+
+Interactive Power BI dashboard for analyzing sales, profit, customer segments, KPIs, and business performance.
+
+**Tech:** Power BI • Excel • DAX • Power Query
+
+
+---
+
+
+##  Titanic Survival Prediction
+
+Predictive analytics model using classification algorithms to estimate passenger survival.
+
+**Tech:** Python • Machine Learning • Data Visualization
+
+---
+
+##  Sentiment Analysis using NLP
+
+Natural Language Processing model that classifies text into Positive, Neutral, and Negative sentiments.
+
+**Tech:** Python • NLP • Scikit-learn
+
+---
+
+##  Student Management System
+
+Full-stack web application with authentication, student records management, and CRUD operations.
+
+**Tech:** Django • Python • MySQL • Bootstrap
+
+
+---
+
+##  Women Safety Mobile App UI/UX
+
+Complete UX case study including user research, wireframes, prototype, and high-fidelity UI.
+
+**Tools:** Figma • Canva
+
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Advanced Power BI
+- Product Design
+- System Design
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+#  Let's Connect
+
+I'm always interested in collaborating on projects involving:
+
+- UI/UX Design
+- Data Analytics
+- AI & Machine Learning
+- Web Development
+- Open Source
+
+Email: aishwaryaselvaraju14@gmail.com
+
+LinkedIn: [https://www.linkedin.com/in/aishwarya1413](https://www.linkedin.com/in/aishwarya1413/)
+
+ Thanks for visiting my profile!

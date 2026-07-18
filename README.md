@@ -6,9 +6,8 @@
  Open to Full-Time Opportunities  
  Passionate about designing intuitive user experiences and building data-driven solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=google-chrome)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aishwarya1413/))
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aishwaryaselvaraju14@gmail.com)
 
 ---
 
@@ -129,7 +128,7 @@ Complete UX case study including user research, wireframes, prototype, and high-
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -140,17 +139,6 @@ Complete UX case study including user research, wireframes, prototype, and high-
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 #  Let's Connect
 
@@ -160,7 +148,7 @@ I'm always interested in collaborating on projects involving:
 - Data Analytics
 - AI & Machine Learning
 - Web Development
-- Open Source
+
 
 Email: aishwaryaselvaraju14@gmail.com
 

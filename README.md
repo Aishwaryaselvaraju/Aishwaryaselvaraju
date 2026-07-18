@@ -6,8 +6,6 @@
  Open to Full-Time Opportunities  
  Passionate about designing intuitive user experiences and building data-driven solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aishwarya1413/))
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aishwaryaselvaraju14@gmail.com)
 
 ---
 

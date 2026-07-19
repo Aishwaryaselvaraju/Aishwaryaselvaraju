@@ -1,155 +1,248 @@
-# Hey, I'm Aishwarya Selvaraju 
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Aishwarya Selvaraju Banner"/>
+</p>
 
-### Designing Experiences • Building Products • Solving Problems
+<h1 align="center">Aishwarya Selvaraju</h1>
 
-> UI/UX Designer passionate about crafting intuitive digital experiences with a blend of design, data, and AI.
+<h3 align="center">
+UI/UX Designer • Product Designer • Frontend Developer
+</h3>
 
- India  
-Open to Full-Time Opportunities
-
----
-
-#  About Me
-
-I believe great products are built where **design, technology, and user needs intersect.**
-
-My work focuses on creating meaningful user experiences—from research and wireframes to interactive prototypes, data dashboards, and intelligent web applications.
-
-Whether I'm designing an interface or developing a machine learning model, my goal is always the same:
-
-> **Build products that are simple, useful, and impactful.**
+<p align="center">
+Designing Human-Centered Digital Experiences
+</p>
 
 ---
 
-#  Expertise
+## About
 
-###  UI/UX Design
-- User Research
-- Wireframing
-- Design Systems
-- Prototyping
-- Responsive Design
-- Usability Testing
+I design digital products that are simple, intuitive, and user-centered.
 
-###  Data Analytics
-- Power BI Dashboards
-- Business Intelligence
-- Data Visualization
-- KPI Reporting
-- Excel Analytics
+My work combines UX research, interface design, data analytics, and modern web technologies to create experiences that solve real-world problems. I enjoy transforming ideas into products through thoughtful design, rapid prototyping, and continuous improvement.
 
-###  AI & Machine Learning
-- Predictive Analytics
-- NLP
-- Classification Models
-- Data Processing
-
-### Full-Stack Development
-- Responsive Websites
-- Django Applications
-- REST APIs
-- Database Design
+Currently seeking full-time opportunities in UI/UX Design, Product Design, and Frontend Development.
 
 ---
 
-# 🛠 Tech Stack
+## Design Philosophy
 
-### Design
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
-![Inkscape](https://img.shields.io/badge/Inkscape-000?style=for-the-badge&logo=inkscape)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000?style=for-the-badge)
+Good design is more than aesthetics.
 
-### Frontend
-HTML • CSS • JavaScript • Bootstrap
+I believe successful products are created by understanding users, simplifying complex problems, and building experiences that are accessible, meaningful, and enjoyable.
 
-### Backend
-Python • Django • REST APIs
-
-### Data
-Power BI • Tableau • SQL • Excel
-
-### AI
-Python • Pandas • NumPy • Scikit-learn • NLP
-
-### Database
-MySQL • PostgreSQL • SQLite
-
-### Tools
-Git • GitHub • VS Code • Jupyter • Google Colab
+Every project I create follows a user-centered design process focused on usability, consistency, and clarity.
 
 ---
 
-#  Featured Projects
+## Design Process
 
-###  Financial Analytics Dashboard
-Interactive business dashboard for sales, profit, KPIs, customer insights, and executive reporting.
+```
+Research
+      ↓
+User Personas
+      ↓
+Information Architecture
+      ↓
+Wireframes
+      ↓
+UI Design
+      ↓
+Interactive Prototype
+      ↓
+Usability Testing
+      ↓
+Final Product
+```
 
-**Power BI • DAX • Excel • Power Query**
+---
+
+## Featured Projects
+
+### Financial Analytics Dashboard
+
+Designed and developed an interactive business dashboard that transforms raw business data into meaningful insights using KPI-driven visualizations and executive reporting.
+
+**Technologies**
+
+Power BI
+
+DAX
+
+Power Query
+
+Microsoft Excel
+
+Repository →
+(Add Repository Link)
+
+---
+
+### Women Safety Mobile Application
+
+Designed an end-to-end mobile application focused on user safety by conducting research, creating user flows, wireframes, high-fidelity interfaces, and interactive prototypes.
+
+**Tools**
+
+Figma
+
+Canva
+
+Prototype →
+(Add Figma Link)
+
+---
+
+### Student Management System
+
+Built a responsive full-stack web application with secure authentication, student record management, and CRUD functionality.
+
+**Technologies**
+
+Python
+
+Django
+
+MySQL
+
+Bootstrap
+
+Repository →
+(Add Repository Link)
 
 ---
 
 ### Titanic Survival Prediction
-Machine learning classification model for predicting passenger survival using exploratory analysis and feature engineering.
 
-**Python • Scikit-learn • Matplotlib**
+Developed a machine learning model for predicting passenger survival using exploratory data analysis, feature engineering, and classification algorithms.
+
+**Technologies**
+
+Python
+
+Scikit-learn
+
+Pandas
+
+Matplotlib
+
+Repository →
+(Add Repository Link)
 
 ---
 
 ### Sentiment Analysis using NLP
-Natural language processing project that classifies text into Positive, Neutral, and Negative sentiments.
 
-**Python • NLP • Machine Learning**
+Created a Natural Language Processing model capable of classifying text into Positive, Neutral, and Negative sentiment categories.
 
----
+**Technologies**
 
-###  Student Management System
-Full-stack Django application featuring authentication, CRUD operations, and database integration.
+Python
 
-**Django • Python • MySQL**
+Natural Language Processing
 
----
+Scikit-learn
 
-###  Women Safety Mobile App
-End-to-end UX case study including user research, wireframes, interactive prototype, and high-fidelity interface.
-
-**Figma • UX Research • Prototyping**
+Repository →
+(Add Repository Link)
 
 ---
 
-#  Currently Exploring
+## Technical Skills
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
+### Design
+
+- Figma
+- Canva
+- Inkscape
+- CorelDRAW
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Backend
+
+- Python
+- Django
+- REST APIs
+
+### Data Analytics
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- SQL
+
+### Machine Learning
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Natural Language Processing
+
+### Database
+
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## Currently Exploring
+
 - Product Design
+- Design Systems
+- UX Research
+- Accessibility
+- Large Language Models
+- AI Agents
+- Retrieval-Augmented Generation
 - Advanced Power BI
 - System Design
 
 ---
 
-#  Let's Collaborate
-
-Interested in working on projects involving
+## Open to Collaborate On
 
 - UI/UX Design
 - Product Design
+- Frontend Development
 - Data Analytics
 - AI & Machine Learning
-- Full-Stack Development
+- Open Source Projects
 
 ---
 
-##  Connect With Me
+## Connect
 
- **Email**  
-**aishwaryaselvaraju14@gmail.com**
+**Portfolio**
 
- **LinkedIn**  
+Coming Soon
+
+**LinkedIn**
+
 https://www.linkedin.com/in/aishwarya1413/
 
+**Email**
+
+aishwaryaselvaraju14@gmail.com
+
 ---
 
-### ✨ "Design is not just what it looks like. Design is how it works."
+> *"Great products are built by understanding people before designing interfaces."*
 
-Thanks for visiting my GitHub! ⭐
+Thank you for visiting my GitHub profile.

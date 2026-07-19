@@ -1,155 +1,155 @@
 # Hey, I'm Aishwarya Selvaraju 
 
-### UI/UX Designer · Data Analyst · Full-Stack Developer · AI & Machine Learning Enthusiast
+### Designing Experiences • Building Products • Solving Problems
+
+> UI/UX Designer passionate about crafting intuitive digital experiences with a blend of design, data, and AI.
 
  India  
- Open to Full-Time Opportunities  
- Passionate about designing intuitive user experiences and building data-driven solutions.
-
+Open to Full-Time Opportunities
 
 ---
 
-#  What I Build
+#  About Me
 
-I build user-centered digital products by combining **UI/UX Design, Data Analytics, AI, and Full-Stack Development**.
+I believe great products are built where **design, technology, and user needs intersect.**
 
-I enjoy solving real-world problems through clean interfaces, intelligent systems, and interactive dashboards.
+My work focuses on creating meaningful user experiences—from research and wireframes to interactive prototypes, data dashboards, and intelligent web applications.
 
-My work spans across:
+Whether I'm designing an interface or developing a machine learning model, my goal is always the same:
 
--  UI/UX Design (Figma, Canva, Inkscape)
--  Data Analytics & Visualization (Power BI, Excel, Tableau)
--  Machine Learning & AI (Python, Scikit-learn, NLP)
--  Web Development (HTML, CSS, JavaScript, Django)
--  Database Management (SQL, MySQL, PostgreSQL)
+> **Build products that are simple, useful, and impactful.**
 
 ---
 
-#  Tech Stack
+#  Expertise
 
-##  Design
+###  UI/UX Design
+- User Research
+- Wireframing
+- Design Systems
+- Prototyping
+- Responsive Design
+- Usability Testing
 
-- Figma
-- Canva
-- Inkscape
-- CorelDRAW
+###  Data Analytics
+- Power BI Dashboards
+- Business Intelligence
+- Data Visualization
+- KPI Reporting
+- Excel Analytics
 
-##  Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-##  Backend
-
-- Python
-- Django
-- REST APIs
-
-##  Data Analytics
-
-- Power BI
-- Tableau
-- Microsoft Excel
-- SQL
-
-##  Machine Learning
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+###  AI & Machine Learning
+- Predictive Analytics
 - NLP
+- Classification Models
+- Data Processing
 
-##  Database
+### Full-Stack Development
+- Responsive Websites
+- Django Applications
+- REST APIs
+- Database Design
 
-- MySQL
-- PostgreSQL
-- SQLite
+---
 
-##  Tools
+# 🛠 Tech Stack
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+### Design
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
+![Inkscape](https://img.shields.io/badge/Inkscape-000?style=for-the-badge&logo=inkscape)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000?style=for-the-badge)
+
+### Frontend
+HTML • CSS • JavaScript • Bootstrap
+
+### Backend
+Python • Django • REST APIs
+
+### Data
+Power BI • Tableau • SQL • Excel
+
+### AI
+Python • Pandas • NumPy • Scikit-learn • NLP
+
+### Database
+MySQL • PostgreSQL • SQLite
+
+### Tools
+Git • GitHub • VS Code • Jupyter • Google Colab
 
 ---
 
 #  Featured Projects
 
-##  Financial Analytics Dashboard
+###  Financial Analytics Dashboard
+Interactive business dashboard for sales, profit, KPIs, customer insights, and executive reporting.
 
-Interactive Power BI dashboard for analyzing sales, profit, customer segments, KPIs, and business performance.
-
-**Tech:** Power BI • Excel • DAX • Power Query
-
+**Power BI • DAX • Excel • Power Query**
 
 ---
 
+### Titanic Survival Prediction
+Machine learning classification model for predicting passenger survival using exploratory analysis and feature engineering.
 
-##  Titanic Survival Prediction
-
-Predictive analytics model using classification algorithms to estimate passenger survival.
-
-**Tech:** Python • Machine Learning • Data Visualization
+**Python • Scikit-learn • Matplotlib**
 
 ---
 
-##  Sentiment Analysis using NLP
+### Sentiment Analysis using NLP
+Natural language processing project that classifies text into Positive, Neutral, and Negative sentiments.
 
-Natural Language Processing model that classifies text into Positive, Neutral, and Negative sentiments.
-
-**Tech:** Python • NLP • Scikit-learn
-
----
-
-##  Student Management System
-
-Full-stack web application with authentication, student records management, and CRUD operations.
-
-**Tech:** Django • Python • MySQL • Bootstrap
-
+**Python • NLP • Machine Learning**
 
 ---
 
-##  Women Safety Mobile App UI/UX
+###  Student Management System
+Full-stack Django application featuring authentication, CRUD operations, and database integration.
 
-Complete UX case study including user research, wireframes, prototype, and high-fidelity UI.
-
-**Tools:** Figma • Canva
-
+**Django • Python • MySQL**
 
 ---
 
-#  Currently Learning
+###  Women Safety Mobile App
+End-to-end UX case study including user research, wireframes, interactive prototype, and high-fidelity interface.
+
+**Figma • UX Research • Prototyping**
+
+---
+
+#  Currently Exploring
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- Advanced Power BI
 - Product Design
+- Advanced Power BI
 - System Design
 
 ---
 
+#  Let's Collaborate
 
-#  Let's Connect
-
-I'm always interested in collaborating on projects involving:
+Interested in working on projects involving
 
 - UI/UX Design
+- Product Design
 - Data Analytics
 - AI & Machine Learning
-- Web Development
+- Full-Stack Development
 
+---
 
-Email: aishwaryaselvaraju14@gmail.com
+##  Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/aishwarya1413](https://www.linkedin.com/in/aishwarya1413/)
+ **Email**  
+**aishwaryaselvaraju14@gmail.com**
 
- Thanks for visiting my profile!
+ **LinkedIn**  
+https://www.linkedin.com/in/aishwarya1413/
+
+---
+
+### ✨ "Design is not just what it looks like. Design is how it works."
+
+Thanks for visiting my GitHub! ⭐
